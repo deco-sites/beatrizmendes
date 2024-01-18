@@ -78,18 +78,22 @@ const manifest = {
     "deco-sites/beatrizmendes/sections/Layout/GridItem.tsx": $$$$$$12,
     "deco-sites/beatrizmendes/sections/Links/LinkTree.tsx": $$$$$$37,
     "deco-sites/beatrizmendes/sections/Links/Shortcuts.tsx": $$$$$$38,
-    "deco-sites/beatrizmendes/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$31,
-    "deco-sites/beatrizmendes/sections/Miscellaneous/CookieConsent.tsx": $$$$$$32,
+    "deco-sites/beatrizmendes/sections/Miscellaneous/CampaignTimer.tsx":
+      $$$$$$31,
+    "deco-sites/beatrizmendes/sections/Miscellaneous/CookieConsent.tsx":
+      $$$$$$32,
     "deco-sites/beatrizmendes/sections/Miscellaneous/Slide.tsx": $$$$$$33,
     "deco-sites/beatrizmendes/sections/Newsletter/Newsletter.tsx": $$$$$$39,
     "deco-sites/beatrizmendes/sections/Product/ImageGalleryFrontBack.tsx":
       $$$$$$27,
-    "deco-sites/beatrizmendes/sections/Product/ImageGallerySlider.tsx": $$$$$$26,
+    "deco-sites/beatrizmendes/sections/Product/ImageGallerySlider.tsx":
+      $$$$$$26,
     "deco-sites/beatrizmendes/sections/Product/NotFound.tsx": $$$$$$30,
     "deco-sites/beatrizmendes/sections/Product/NotFoundChallenge.tsx": $$$$$$22,
     "deco-sites/beatrizmendes/sections/Product/ProductInfo.tsx": $$$$$$24,
     "deco-sites/beatrizmendes/sections/Product/ProductShelf.tsx": $$$$$$25,
-    "deco-sites/beatrizmendes/sections/Product/ProductShelfTabbed.tsx": $$$$$$29,
+    "deco-sites/beatrizmendes/sections/Product/ProductShelfTabbed.tsx":
+      $$$$$$29,
     "deco-sites/beatrizmendes/sections/Product/SearchResult.tsx": $$$$$$23,
     "deco-sites/beatrizmendes/sections/Product/ShelfWithImage.tsx": $$$$$$28,
     "deco-sites/beatrizmendes/sections/Product/Wishlist.tsx": $$$$$$21,
